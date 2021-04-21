@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "chasis": "MP4/20",
+    "constructor": "Mclaren",
+    "motor": "Mercedes Benz",
+    "campeon": false
+  }
+]

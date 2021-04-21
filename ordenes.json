@@ -1,25 +1,25 @@
 {
-  "ordenes": [
-    {
-      "nroOrden": 1,
-      "descripcion": "Canilla 3/4",
-      "cantidad": 3,
-      "precio": 200,
-      "entregada": false
-    },
-    {
-      "nroOrden": 2,
-      "descripcion": "Manguera 3/4",
-      "Cantidad": 1,
-      "precio": 100,
-      "entregada": true
-    },
-	{
-      "nroOrden": 3,
-      "descripcion": "Rodillo",
-      "cantidad": 1,
-      "precio": 300,
-      "entregada": false
-    }
-  ]
+	"ordenes": [
+		{
+			"nroOrden": 1,
+			"descripcion": "Canilla 3/4",
+			"cantidad": 3,
+			"precio": 200,
+			"entregada": false
+		},
+		{
+			"nroOrden": 2,
+			"descripcion": "Manguera 3/4",
+			"Cantidad": 1,
+			"precio": 100,
+			"entregada": true
+		},
+		{
+			"nroOrden": 3,
+			"descripcion": "Rodillo",
+			"cantidad": 1,
+			"precio": 300,
+			"entregada": false
+		}
+	]
 }
